@@ -14,7 +14,7 @@ It was built for a competition of Artificial Intelligence during the last year o
 This model uses a **Bag of words** strategy implemented through *Mean Squared Error* and *Gradient Descent* methods to modify the weights.
 ## How to
 
-Firstly create a directory called ` epochs`
+Firstly create a directory called `epochs`
 
 You will need to preprocess each file, both train and test csv files.
 
